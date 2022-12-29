@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+.page-title,
+.entries{
+    display:flex;
+    justify-content: center;
+}

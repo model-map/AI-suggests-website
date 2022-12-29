@@ -1,0 +1,13 @@
+.collapsible{
+    cursor:pointer;
+}
+
+.active, .collapsible:hover {
+    background-color: #ccc;
+  }
+
+.content{
+    display:none;
+    overflow: hidden;
+}
+
